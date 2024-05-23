@@ -8,7 +8,17 @@
     <link rel="stylesheet" href="css/app.css">
     <script src="js/app.js"></script>
 </head>
-<body>
-    <h1 class="bg-red-400">dwdwdw</h1>
+<body class=" bg-slate-100">
+
+    <?php   include_once 'components/header.html'   ?>
+
+
+        <div class="min-h-screen">
+            
+        </div>
+
+    <?php   include_once 'components/footer.html'   ?>
+
+
 </body>
 </html>
